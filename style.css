@@ -1,0 +1,95 @@
+@font-face{
+    font-family: my_font;
+    src: url(Merienda/Merienda-Regular.ttf);
+}
+body{
+    font-family: my_font;
+    background-color: whitesmoke;
+}
+.navbar{
+    font-size: 20px;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    color: goldenrod;
+}
+.active{
+    font-weight: bold;
+}
+.cards_div{
+    /* padding: 30px; */
+    /* padding-left: 95px; */
+    background-color: whitesmoke;
+}
+.card-row{
+    padding: 20px;
+}
+.card-inner{
+    font-style: oblique;
+    font-size: 16px;
+}
+.certificates_div{
+    padding-left: 80px;
+}
+.social_icons{
+    padding-top: 10px;
+}
+
+/* ABOUT PAGE CSS */
+.mission&awards{
+    padding: 25px;
+    text-align: center;
+}
+.mission_img{
+    width: 500px;
+}
+.team-awards-row{
+    margin: 45px;
+}
+.iframe-div{
+    padding: 25px;
+}
+/* SERVICES PAGE CSS */
+.services{
+    padding: 30px;
+}
+.makeup-section{
+    width: 450px;
+}
+.packages{
+    padding: 20px;
+}
+
+/* GALLERY PAGE CSS */
+.my_gallery{
+    background-color: whitesmoke;
+    padding: 20px;
+}
+.gallery_row{
+    padding: 20px;
+}
+.gallery_img{
+    width: 400px;
+}
+
+/* CONTACT PAE CSS */
+.contact_div{
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.contact_area{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    /* text-align: center; */
+}
+.map{
+    width: 400px;
+}
+.labels{
+    color: goldenrod;
+    font-weight: bold;
+}
+/* PRICE LISTS CSS */
+.price-list{
+    padding: 25px;
+}
